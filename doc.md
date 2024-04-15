@@ -1,1 +1,1 @@
-!include https://github.com/Olesya100/newrepo/blob/master/test_doc.puml
+!https://raw.githubusercontent.com/Olesya100/newrepo/master/test_doc.puml
