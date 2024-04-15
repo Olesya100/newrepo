@@ -1,5 +1,5 @@
 ```plantuml
-@startuml
+@startuml myD
 Alice -> Bob: hello
 @enduml
 ```
