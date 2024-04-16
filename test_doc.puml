@@ -1,4 +1,4 @@
 
 @startuml myD
-Alice -> Bob: hello
+Alice -> Bob : hello
 @enduml
